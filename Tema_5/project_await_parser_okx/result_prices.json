@@ -1,0 +1,1174 @@
+{
+    "BTC-USDT": {
+        "buyLmt": "72764",
+        "sellLmt": "71323.1"
+    },
+    "ETH-USDT": {
+        "buyLmt": "2660.16",
+        "sellLmt": "2607.47"
+    },
+    "OKB-USDT": {
+        "buyLmt": "39.42",
+        "sellLmt": "38.63"
+    },
+    "SOL-USDT": {
+        "buyLmt": "177.44",
+        "sellLmt": "170.47"
+    },
+    "TON-USDT": {
+        "buyLmt": "5",
+        "sellLmt": "4.803"
+    },
+    "DOGE-USDT": {
+        "buyLmt": "0.1745",
+        "sellLmt": "0.16765"
+    },
+    "XRP-USDT": {
+        "buyLmt": "0.5245",
+        "sellLmt": "0.514"
+    },
+    "KAIA-USDT": {
+        "buyLmt": "0.1599",
+        "sellLmt": "0.1028"
+    },
+    "MASK-USDT": {
+        "buyLmt": "3.461",
+        "sellLmt": "3.325"
+    },
+    "SUI-USDT": {
+        "buyLmt": "2.0467",
+        "sellLmt": "1.9663"
+    },
+    "PEPE-USDT": {
+        "buyLmt": "0.000009786",
+        "sellLmt": "0.000009215"
+    },
+    "CAT-USDT": {
+        "buyLmt": "0.000028726",
+        "sellLmt": "0.000027053"
+    },
+    "1INCH-USDT": {
+        "buyLmt": "0.258",
+        "sellLmt": "0.2478"
+    },
+    "AAVE-USDT": {
+        "buyLmt": "153.17",
+        "sellLmt": "147.15"
+    },
+    "ACA-USDT": {
+        "buyLmt": "0.05933",
+        "sellLmt": "0.05586"
+    },
+    "ACE-USDT": {
+        "buyLmt": "2.119",
+        "sellLmt": "1.995"
+    },
+    "ACH-USDT": {
+        "buyLmt": "0.02082",
+        "sellLmt": "0.01999"
+    },
+    "ADA-USDT": {
+        "buyLmt": "0.367",
+        "sellLmt": "0.3525"
+    },
+    "AERGO-USDT": {
+        "buyLmt": "0.10044",
+        "sellLmt": "0.09458"
+    },
+    "AEVO-USDT": {
+        "buyLmt": "0.335",
+        "sellLmt": "0.3217"
+    },
+    "AGLD-USDT": {
+        "buyLmt": "1.0667",
+        "sellLmt": "1.0045"
+    },
+    "AIDOGE-USDT": {
+        "buyLmt": "0.0000000003527",
+        "sellLmt": "0.0000000003456"
+    },
+    "ALCX-USDT": {
+        "buyLmt": "14.96",
+        "sellLmt": "14.08"
+    },
+    "ALGO-USDT": {
+        "buyLmt": "0.12",
+        "sellLmt": "0.1152"
+    },
+    "ALPHA-USDT": {
+        "buyLmt": "0.07025",
+        "sellLmt": "0.06748"
+    },
+    "APE-USDT": {
+        "buyLmt": "1.0547",
+        "sellLmt": "1.0132"
+    },
+    "API3-USDT": {
+        "buyLmt": "1.613",
+        "sellLmt": "1.549"
+    },
+    "APT-USDT": {
+        "buyLmt": "9.525",
+        "sellLmt": "9.151"
+    },
+    "AR-USDT": {
+        "buyLmt": "16.469",
+        "sellLmt": "15.821"
+    },
+    "ARB-USDT": {
+        "buyLmt": "0.5514",
+        "sellLmt": "0.5296"
+    },
+    "ARG-USDT": {
+        "buyLmt": "0.8304",
+        "sellLmt": "0.782"
+    },
+    "ARKM-USDT": {
+        "buyLmt": "1.642",
+        "sellLmt": "1.545"
+    },
+    "ARTY-USDT": {
+        "buyLmt": "0.4103",
+        "sellLmt": "0.3863"
+    },
+    "ASTR-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "ATH-USDT": {
+        "buyLmt": "0.04972",
+        "sellLmt": "0.04873"
+    },
+    "ATOM-USDT": {
+        "buyLmt": "4.435",
+        "sellLmt": "4.26"
+    },
+    "AUCTION-USDT": {
+        "buyLmt": "13.184",
+        "sellLmt": "12.666"
+    },
+    "AVAX-USDT": {
+        "buyLmt": "26.24",
+        "sellLmt": "25.21"
+    },
+    "AVIVE-USDT": {
+        "buyLmt": "0.000516",
+        "sellLmt": "0.000485"
+    },
+    "AXS-USDT": {
+        "buyLmt": "5.071",
+        "sellLmt": "4.774"
+    },
+    "BABYDOGE-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "BADGER-USDT": {
+        "buyLmt": "3.056",
+        "sellLmt": "2.935"
+    },
+    "BAL-USDT": {
+        "buyLmt": "2.021",
+        "sellLmt": "1.902"
+    },
+    "BAND-USDT": {
+        "buyLmt": "1.187",
+        "sellLmt": "1.14"
+    },
+    "BANANA-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "BAT-USDT": {
+        "buyLmt": "0.1687",
+        "sellLmt": "0.162"
+    },
+    "BCH-USDT": {
+        "buyLmt": "381.3",
+        "sellLmt": "366.2"
+    },
+    "BETH-USDT": {
+        "buyLmt": "2660.1",
+        "sellLmt": "2607.3"
+    },
+    "BICO-USDT": {
+        "buyLmt": "0.2222",
+        "sellLmt": "0.2134"
+    },
+    "BIGTIME-USDT": {
+        "buyLmt": "0.16399",
+        "sellLmt": "0.15755"
+    },
+    "BLUR-USDT": {
+        "buyLmt": "0.228",
+        "sellLmt": "0.219"
+    },
+    "BNB-USDT": {
+        "buyLmt": "599.1",
+        "sellLmt": "575.5"
+    },
+    "BNT-USDT": {
+        "buyLmt": "0.5277",
+        "sellLmt": "0.5069"
+    },
+    "BOME-USDT": {
+        "buyLmt": "0.008718",
+        "sellLmt": "0.008375"
+    },
+    "BONE-USDT": {
+        "buyLmt": "0.3928",
+        "sellLmt": "0.3849"
+    },
+    "BONK-USDT": {
+        "buyLmt": "0.000021578",
+        "sellLmt": "0.00002032"
+    },
+    "BORING-USDT": {
+        "buyLmt": "0.000541",
+        "sellLmt": "0.000509"
+    },
+    "BORA-USDT": {
+        "buyLmt": "0.09565",
+        "sellLmt": "0.09006"
+    },
+    "BSV-USDT": {
+        "buyLmt": "53.67",
+        "sellLmt": "51.56"
+    },
+    "BTT-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "BZZ-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "CATI-USDT": {
+        "buyLmt": "0.3621",
+        "sellLmt": "0.3478"
+    },
+    "CEEK-USDT": {
+        "buyLmt": "0.02822",
+        "sellLmt": "0.02656"
+    },
+    "CELO-USDT": {
+        "buyLmt": "0.6591",
+        "sellLmt": "0.6331"
+    },
+    "CELR-USDT": {
+        "buyLmt": "0.01252",
+        "sellLmt": "0.01178"
+    },
+    "CETUS-USDT": {
+        "buyLmt": "0.18024",
+        "sellLmt": "0.17667"
+    },
+    "CFG-USDT": {
+        "buyLmt": "0.304",
+        "sellLmt": "0.2862"
+    },
+    "CFX-USDT": {
+        "buyLmt": "0.1515",
+        "sellLmt": "0.1455"
+    },
+    "CHZ-USDT": {
+        "buyLmt": "0.06251",
+        "sellLmt": "0.06005"
+    },
+    "CITY-USDT": {
+        "buyLmt": "2.208",
+        "sellLmt": "2.078"
+    },
+    "CLV-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "COMP-USDT": {
+        "buyLmt": "44.82",
+        "sellLmt": "43.06"
+    },
+    "CORE-USDT": {
+        "buyLmt": "0.9248",
+        "sellLmt": "0.9064"
+    },
+    "CRO-USDT": {
+        "buyLmt": "0.07498",
+        "sellLmt": "0.07348"
+    },
+    "CRV-USDT": {
+        "buyLmt": "0.2571",
+        "sellLmt": "0.247"
+    },
+    "CSPR-USDT": {
+        "buyLmt": "0.007509",
+        "sellLmt": "0.00736"
+    },
+    "CTC-USDT": {
+        "buyLmt": "0.3914",
+        "sellLmt": "0.3836"
+    },
+    "CTXC-USDT": {
+        "buyLmt": "0.2166",
+        "sellLmt": "0.2039"
+    },
+    "CVC-USDT": {
+        "buyLmt": "0.12998",
+        "sellLmt": "0.12739"
+    },
+    "CVX-USDT": {
+        "buyLmt": "1.657",
+        "sellLmt": "1.623"
+    },
+    "CXT-USDT": {
+        "buyLmt": "0.07531",
+        "sellLmt": "0.07091"
+    },
+    "DAI-USDT": {
+        "buyLmt": "1.01",
+        "sellLmt": "0.9899"
+    },
+    "DAO-USDT": {
+        "buyLmt": "0.293",
+        "sellLmt": "0.2759"
+    },
+    "DEGEN-USDT": {
+        "buyLmt": "0.009899",
+        "sellLmt": "0.009321"
+    },
+    "DEP-USDT": {
+        "buyLmt": "0.001014",
+        "sellLmt": "0.000955"
+    },
+    "DGB-USDT": {
+        "buyLmt": "0.006018",
+        "sellLmt": "0.005898"
+    },
+    "DIA-USDT": {
+        "buyLmt": "0.9485",
+        "sellLmt": "0.8932"
+    },
+    "DOGS-USDT": {
+        "buyLmt": "0.0006213",
+        "sellLmt": "0.0005969"
+    },
+    "DORA-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "DOT-USDT": {
+        "buyLmt": "4.112",
+        "sellLmt": "4.03"
+    },
+    "DYDX-USDT": {
+        "buyLmt": "1.0542",
+        "sellLmt": "1.0127"
+    },
+    "EGLD-USDT": {
+        "buyLmt": "24.6",
+        "sellLmt": "23.63"
+    },
+    "EIGEN-USDT": {
+        "buyLmt": "2.984",
+        "sellLmt": "2.809"
+    },
+    "ELF-USDT": {
+        "buyLmt": "0.3652",
+        "sellLmt": "0.3439"
+    },
+    "ELON-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "ENJ-USDT": {
+        "buyLmt": "0.1473",
+        "sellLmt": "0.1414"
+    },
+    "ENS-USDT": {
+        "buyLmt": "17.715",
+        "sellLmt": "17.019"
+    },
+    "EOS-USDT": {
+        "buyLmt": "0.4571",
+        "sellLmt": "0.448"
+    },
+    "ERN-USDT": {
+        "buyLmt": "2.17",
+        "sellLmt": "2.043"
+    },
+    "ETC-USDT": {
+        "buyLmt": "19.67",
+        "sellLmt": "18.89"
+    },
+    "ETHW-USDT": {
+        "buyLmt": "3.316",
+        "sellLmt": "3.185"
+    },
+    "ETHFI-USDT": {
+        "buyLmt": "1.518",
+        "sellLmt": "1.457"
+    },
+    "FET-USDT": {
+        "buyLmt": "1.3702",
+        "sellLmt": "1.2903"
+    },
+    "FIL-USDT": {
+        "buyLmt": "3.723",
+        "sellLmt": "3.576"
+    },
+    "FLM-USDT": {
+        "buyLmt": "0.05782",
+        "sellLmt": "0.05445"
+    },
+    "FLOW-USDT": {
+        "buyLmt": "0.5387",
+        "sellLmt": "0.5175"
+    },
+    "FLOKI-USDT": {
+        "buyLmt": "0.00014972",
+        "sellLmt": "0.00014384"
+    },
+    "FLR-USDT": {
+        "buyLmt": "0.01349",
+        "sellLmt": "0.01322"
+    },
+    "FORTH-USDT": {
+        "buyLmt": "3.038",
+        "sellLmt": "2.86"
+    },
+    "FOXY-USDT": {
+        "buyLmt": "0.0090778",
+        "sellLmt": "0.0088981"
+    },
+    "FTM-USDT": {
+        "buyLmt": "0.6841",
+        "sellLmt": "0.6571"
+    },
+    "FXS-USDT": {
+        "buyLmt": "1.963",
+        "sellLmt": "1.848"
+    },
+    "G-USDT": {
+        "buyLmt": "0.03116",
+        "sellLmt": "0.02934"
+    },
+    "GALA-USDT": {
+        "buyLmt": "0.02046",
+        "sellLmt": "0.01965"
+    },
+    "GALFT-USDT": {
+        "buyLmt": "1.81",
+        "sellLmt": "1.704"
+    },
+    "GAS-USDT": {
+        "buyLmt": "3.987",
+        "sellLmt": "3.829"
+    },
+    "GEAR-USDT": {
+        "buyLmt": "0.004232",
+        "sellLmt": "0.003984"
+    },
+    "GFT-USDT": {
+        "buyLmt": "0.01681",
+        "sellLmt": "0.01647"
+    },
+    "GHST-USDT": {
+        "buyLmt": "0.9981",
+        "sellLmt": "0.94"
+    },
+    "GLM-USDT": {
+        "buyLmt": "0.3137",
+        "sellLmt": "0.3013"
+    },
+    "GLMR-USDT": {
+        "buyLmt": "0.1633",
+        "sellLmt": "0.1537"
+    },
+    "GMT-USDT": {
+        "buyLmt": "0.1353",
+        "sellLmt": "0.1299"
+    },
+    "GMX-USDT": {
+        "buyLmt": "24.62",
+        "sellLmt": "23.65"
+    },
+    "GOAL-USDT": {
+        "buyLmt": "0.02096",
+        "sellLmt": "0.01973"
+    },
+    "GODS-USDT": {
+        "buyLmt": "0.1712",
+        "sellLmt": "0.1677"
+    },
+    "GOG-USDT": {
+        "buyLmt": "0.02689",
+        "sellLmt": "0.02532"
+    },
+    "GPT-USDT": {
+        "buyLmt": "0.05879",
+        "sellLmt": "0.05535"
+    },
+    "GRT-USDT": {
+        "buyLmt": "0.156",
+        "sellLmt": "0.1498"
+    },
+    "HBAR-USDT": {
+        "buyLmt": "0.04817",
+        "sellLmt": "0.04627"
+    },
+    "HMSTR-USDT": {
+        "buyLmt": "0.002811",
+        "sellLmt": "0.002699"
+    },
+    "ICE-USDT": {
+        "buyLmt": "0.007086",
+        "sellLmt": "0.006672"
+    },
+    "ICP-USDT": {
+        "buyLmt": "8.085",
+        "sellLmt": "7.767"
+    },
+    "ICX-USDT": {
+        "buyLmt": "0.1342",
+        "sellLmt": "0.1289"
+    },
+    "ID-USDT": {
+        "buyLmt": "0.4447",
+        "sellLmt": "0.4272"
+    },
+    "ILV-USDT": {
+        "buyLmt": "36.02",
+        "sellLmt": "33.91"
+    },
+    "IMX-USDT": {
+        "buyLmt": "1.3847",
+        "sellLmt": "1.3303"
+    },
+    "INJ-USDT": {
+        "buyLmt": "19.903",
+        "sellLmt": "19.122"
+    },
+    "IOST-USDT": {
+        "buyLmt": "0.004826",
+        "sellLmt": "0.004636"
+    },
+    "IOTA-USDT": {
+        "buyLmt": "0.1173",
+        "sellLmt": "0.1126"
+    },
+    "IQ-USDT": {
+        "buyLmt": "0.00636",
+        "sellLmt": "0.005988"
+    },
+    "JOE-USDT": {
+        "buyLmt": "0.327",
+        "sellLmt": "0.3079"
+    },
+    "JST-USDT": {
+        "buyLmt": "0.03038",
+        "sellLmt": "0.02976"
+    },
+    "JTO-USDT": {
+        "buyLmt": "2.434",
+        "sellLmt": "2.292"
+    },
+    "JUP-USDT": {
+        "buyLmt": "1.0228",
+        "sellLmt": "0.9826"
+    },
+    "KAN-USDT": {
+        "buyLmt": "0.000755",
+        "sellLmt": "0.000709"
+    },
+    "KDA-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "KISHU-USDT": {
+        "buyLmt": "0.0000000003",
+        "sellLmt": "0.000000000292"
+    },
+    "KNC-USDT": {
+        "buyLmt": "0.4418",
+        "sellLmt": "0.4244"
+    },
+    "KP3R-USDT": {
+        "buyLmt": "27.83",
+        "sellLmt": "26.2"
+    },
+    "KSM-USDT": {
+        "buyLmt": "17.42",
+        "sellLmt": "16.72"
+    },
+    "LAMB-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "LAT-USDT": {
+        "buyLmt": "0.008154",
+        "sellLmt": "0.007678"
+    },
+    "LBR-USDT": {
+        "buyLmt": "0.04823",
+        "sellLmt": "0.04538"
+    },
+    "LDO-USDT": {
+        "buyLmt": "1.0883",
+        "sellLmt": "1.0455"
+    },
+    "LEO-USDT": {
+        "buyLmt": "6.314",
+        "sellLmt": "5.944"
+    },
+    "LINK-USDT": {
+        "buyLmt": "12.252",
+        "sellLmt": "12.009"
+    },
+    "LON-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "LOOKS-USDT": {
+        "buyLmt": "0.03855",
+        "sellLmt": "0.03778"
+    },
+    "LPT-USDT": {
+        "buyLmt": "11.091",
+        "sellLmt": "10.655"
+    },
+    "LQTY-USDT": {
+        "buyLmt": "0.962",
+        "sellLmt": "0.9058"
+    },
+    "LRC-USDT": {
+        "buyLmt": "0.1237",
+        "sellLmt": "0.1188"
+    },
+    "LSK-USDT": {
+        "buyLmt": "0.8166",
+        "sellLmt": "0.769"
+    },
+    "LTC-USDT": {
+        "buyLmt": "71.99",
+        "sellLmt": "70.56"
+    },
+    "LUNC-USDT": {
+        "buyLmt": "0.0001002",
+        "sellLmt": "0.00009435"
+    },
+    "LUNA-USDT": {
+        "buyLmt": "0.3652",
+        "sellLmt": "0.3438"
+    },
+    "MAGIC-USDT": {
+        "buyLmt": "0.384",
+        "sellLmt": "0.3689"
+    },
+    "MANA-USDT": {
+        "buyLmt": "0.3028",
+        "sellLmt": "0.2908"
+    },
+    "MAX-USDT": {
+        "buyLmt": "0.27313",
+        "sellLmt": "0.26771"
+    },
+    "MDT-USDT": {
+        "buyLmt": "0.04496",
+        "sellLmt": "0.04232"
+    },
+    "MEME-USDT": {
+        "buyLmt": "0.013054",
+        "sellLmt": "0.012541"
+    },
+    "MENGO-USDT": {
+        "buyLmt": "0.3105",
+        "sellLmt": "0.2924"
+    },
+    "MERL-USDT": {
+        "buyLmt": "0.2935",
+        "sellLmt": "0.2876"
+    },
+    "METIS-USDT": {
+        "buyLmt": "44.45",
+        "sellLmt": "41.85"
+    },
+    "MEW-USDT": {
+        "buyLmt": "0.009469",
+        "sellLmt": "0.009097"
+    },
+    "MILO-USDT": {
+        "buyLmt": "0.00000002089",
+        "sellLmt": "0.00000001965"
+    },
+    "MINA-USDT": {
+        "buyLmt": "0.5558",
+        "sellLmt": "0.5338"
+    },
+    "MKR-USDT": {
+        "buyLmt": "1339.5",
+        "sellLmt": "1286.9"
+    },
+    "MLN-USDT": {
+        "buyLmt": "16.59",
+        "sellLmt": "15.61"
+    },
+    "MOVR-USDT": {
+        "buyLmt": "9.985",
+        "sellLmt": "9.403"
+    },
+    "MXC-USDT": {
+        "buyLmt": "0.005907",
+        "sellLmt": "0.005562"
+    },
+    "MYRIA-USDT": {
+        "buyLmt": "0.002246",
+        "sellLmt": "0.002114"
+    },
+    "NEAR-USDT": {
+        "buyLmt": "4.284",
+        "sellLmt": "4.115"
+    },
+    "NEIRO-USDT": {
+        "buyLmt": "0.0017138",
+        "sellLmt": "0.0016138"
+    },
+    "NEO-USDT": {
+        "buyLmt": "10.019",
+        "sellLmt": "9.625"
+    },
+    "NFT-USDT": {
+        "buyLmt": "0.000000452",
+        "sellLmt": "0.0000004429"
+    },
+    "NMR-USDT": {
+        "buyLmt": "15.24",
+        "sellLmt": "14.34"
+    },
+    "NOT-USDT": {
+        "buyLmt": "0.006906",
+        "sellLmt": "0.006634"
+    },
+    "NULS-USDT": {
+        "buyLmt": "0.3304",
+        "sellLmt": "0.311"
+    },
+    "OAS-USDT": {
+        "buyLmt": "0.03449",
+        "sellLmt": "0.03247"
+    },
+    "OKT-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "OM-USDT": {
+        "buyLmt": "1.4496",
+        "sellLmt": "1.3927"
+    },
+    "OMI-USDT": {
+        "buyLmt": "0.000371",
+        "sellLmt": "0.0003493"
+    },
+    "ONDO-USDT": {
+        "buyLmt": "0.7166",
+        "sellLmt": "0.6884"
+    },
+    "ONE-USDT": {
+        "buyLmt": "0.01242",
+        "sellLmt": "0.01192"
+    },
+    "ONT-USDT": {
+        "buyLmt": "0.1814",
+        "sellLmt": "0.1742"
+    },
+    "OP-USDT": {
+        "buyLmt": "1.6999",
+        "sellLmt": "1.6332"
+    },
+    "ORBS-USDT": {
+        "buyLmt": "0.02558",
+        "sellLmt": "0.02457"
+    },
+    "ORDI-USDT": {
+        "buyLmt": "35.231",
+        "sellLmt": "33.849"
+    },
+    "OXT-USDT": {
+        "buyLmt": "0.06837",
+        "sellLmt": "0.06438"
+    },
+    "PENDLE-USDT": {
+        "buyLmt": "5.064",
+        "sellLmt": "4.768"
+    },
+    "PEOPLE-USDT": {
+        "buyLmt": "0.0757",
+        "sellLmt": "0.07129"
+    },
+    "PERP-USDT": {
+        "buyLmt": "0.6651",
+        "sellLmt": "0.6263"
+    },
+    "PHA-USDT": {
+        "buyLmt": "0.1143",
+        "sellLmt": "0.1075"
+    },
+    "PIXEL-USDT": {
+        "buyLmt": "0.1797",
+        "sellLmt": "0.1692"
+    },
+    "POLYDOGE-USDT": {
+        "buyLmt": "0.00000001218",
+        "sellLmt": "0.00000001147"
+    },
+    "POL-USDT": {
+        "buyLmt": "0.3333",
+        "sellLmt": "0.3202"
+    },
+    "POR-USDT": {
+        "buyLmt": "0.8526",
+        "sellLmt": "0.8031"
+    },
+    "PRCL-USDT": {
+        "buyLmt": "0.253",
+        "sellLmt": "0.2479"
+    },
+    "PRQ-USDT": {
+        "buyLmt": "0.08539",
+        "sellLmt": "0.0804"
+    },
+    "PSTAKE-USDT": {
+        "buyLmt": "0.03975",
+        "sellLmt": "0.03742"
+    },
+    "PYTH-USDT": {
+        "buyLmt": "0.4087",
+        "sellLmt": "0.3926"
+    },
+    "PYUSD-USDT": {
+        "buyLmt": "1.0304",
+        "sellLmt": "0.9703"
+    },
+    "QTUM-USDT": {
+        "buyLmt": "2.351",
+        "sellLmt": "2.258"
+    },
+    "RACA-USDT": {
+        "buyLmt": "0.0001808",
+        "sellLmt": "0.0001771"
+    },
+    "RADAR-USDT": {
+        "buyLmt": "0.004125",
+        "sellLmt": "0.003884"
+    },
+    "RAY-USDT": {
+        "buyLmt": "3.2319",
+        "sellLmt": "3.1678"
+    },
+    "RDNT-USDT": {
+        "buyLmt": "0.05038",
+        "sellLmt": "0.04839"
+    },
+    "RENDER-USDT": {
+        "buyLmt": "4.953",
+        "sellLmt": "4.758"
+    },
+    "RIO-USDT": {
+        "buyLmt": "0.7615",
+        "sellLmt": "0.7104"
+    },
+    "RON-USDT": {
+        "buyLmt": "1.531",
+        "sellLmt": "1.499"
+    },
+    "RPL-USDT": {
+        "buyLmt": "10.93",
+        "sellLmt": "10.28"
+    },
+    "RSR-USDT": {
+        "buyLmt": "0.006575",
+        "sellLmt": "0.006191"
+    },
+    "RSS3-USDT": {
+        "buyLmt": "0.1164",
+        "sellLmt": "0.1095"
+    },
+    "RUNECOIN-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "RVN-USDT": {
+        "buyLmt": "0.01783",
+        "sellLmt": "0.01712"
+    },
+    "SAFE-USDT": {
+        "buyLmt": "1.1812",
+        "sellLmt": "1.1123"
+    },
+    "SAMO-USDT": {
+        "buyLmt": "0.007512",
+        "sellLmt": "0.007073"
+    },
+    "SAND-USDT": {
+        "buyLmt": "0.2568",
+        "sellLmt": "0.2466"
+    },
+    "SATS-USDT": {
+        "buyLmt": "0.0000002564",
+        "sellLmt": "0.0000002414"
+    },
+    "SC-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "SD-USDT": {
+        "buyLmt": "0.3316",
+        "sellLmt": "0.3122"
+    },
+    "SHIB-USDT": {
+        "buyLmt": "0.000019485",
+        "sellLmt": "0.00001872"
+    },
+    "SKL-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "SLERF-USDT": {
+        "buyLmt": "0.1707",
+        "sellLmt": "0.1607"
+    },
+    "SLP-USDT": {
+        "buyLmt": "0.002865",
+        "sellLmt": "0.002807"
+    },
+    "SNT-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "SNX-USDT": {
+        "buyLmt": "1.466",
+        "sellLmt": "1.407"
+    },
+    "SPURS-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "SSV-USDT": {
+        "buyLmt": "20.69",
+        "sellLmt": "19.87"
+    },
+    "SSWP-USDT": {
+        "buyLmt": "0.0005021",
+        "sellLmt": "0.0004728"
+    },
+    "STETH-USDT": {
+        "buyLmt": "2712.62",
+        "sellLmt": "2554.54"
+    },
+    "STORJ-USDT": {
+        "buyLmt": "0.468",
+        "sellLmt": "0.4496"
+    },
+    "STRK-USDT": {
+        "buyLmt": "0.3892",
+        "sellLmt": "0.3738"
+    },
+    "STX-USDT": {
+        "buyLmt": "1.7571",
+        "sellLmt": "1.6881"
+    },
+    "SUSHI-USDT": {
+        "buyLmt": "0.728",
+        "sellLmt": "0.6994"
+    },
+    "SWEAT-USDT": {
+        "buyLmt": "0.008685",
+        "sellLmt": "0.008512"
+    },
+    "SWFTC-USDT": {
+        "buyLmt": "0.003625",
+        "sellLmt": "0.003414"
+    },
+    "T-USDT": {
+        "buyLmt": "0.02264",
+        "sellLmt": "0.02175"
+    },
+    "THETA-USDT": {
+        "buyLmt": "1.1834",
+        "sellLmt": "1.1368"
+    },
+    "TIA-USDT": {
+        "buyLmt": "4.698",
+        "sellLmt": "4.512"
+    },
+    "TNSR-USDT": {
+        "buyLmt": "0.4596",
+        "sellLmt": "0.4414"
+    },
+    "TRA-USDT": {
+        "buyLmt": "0.9002",
+        "sellLmt": "0.8476"
+    },
+    "TRB-USDT": {
+        "buyLmt": "60.96",
+        "sellLmt": "58.57"
+    },
+    "TRX-USDT": {
+        "buyLmt": "0.17338",
+        "sellLmt": "0.16657"
+    },
+    "TURBO-USDT": {
+        "buyLmt": "0.0091297",
+        "sellLmt": "0.0087716"
+    },
+    "ULTI-USDT": {
+        "buyLmt": "0.01544",
+        "sellLmt": "0.01512"
+    },
+    "UMA-USDT": {
+        "buyLmt": "2.65",
+        "sellLmt": "2.495"
+    },
+    "UNI-USDT": {
+        "buyLmt": "8.039",
+        "sellLmt": "7.723"
+    },
+    "USDC-USDT": {
+        "buyLmt": "1.0201",
+        "sellLmt": "0.98"
+    },
+    "USTC-USDT": {
+        "buyLmt": "0.02551",
+        "sellLmt": "0.0245"
+    },
+    "UXLINK-USDT": {
+        "buyLmt": "0.5222",
+        "sellLmt": "0.5016"
+    },
+    "VELO-USDT": {
+        "buyLmt": "0.012934",
+        "sellLmt": "0.012677"
+    },
+    "VELODROME-USDT": {
+        "buyLmt": "0.0859",
+        "sellLmt": "0.08089"
+    },
+    "VELA-USDT": {
+        "buyLmt": "0.03719",
+        "sellLmt": "0.03501"
+    },
+    "VENOM-USDT": {
+        "buyLmt": "0.08189",
+        "sellLmt": "0.07711"
+    },
+    "VRA-USDT": {
+        "buyLmt": "0.00262",
+        "sellLmt": "0.002568"
+    },
+    "W-USDT": {
+        "buyLmt": "0.2361",
+        "sellLmt": "0.2268"
+    },
+    "WAXP-USDT": {
+        "buyLmt": "0.03244",
+        "sellLmt": "0.03116"
+    },
+    "WBTC-USDT": {
+        "buyLmt": "74065.7",
+        "sellLmt": "69750.1"
+    },
+    "WIF-USDT": {
+        "buyLmt": "2.624",
+        "sellLmt": "2.52"
+    },
+    "WIN-USDT": {
+        "buyLmt": "0.00008781",
+        "sellLmt": "0.00008269"
+    },
+    "WLD-USDT": {
+        "buyLmt": "2.012",
+        "sellLmt": "1.933"
+    },
+    "WOO-USDT": {
+        "buyLmt": "0.1996",
+        "sellLmt": "0.1916"
+    },
+    "WSM-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "X-USDT": {
+        "buyLmt": "0.00005129",
+        "sellLmt": "0.00004927"
+    },
+    "XAUT-USDT": {
+        "buyLmt": "2853.8",
+        "sellLmt": "2687.5"
+    },
+    "XCH-USDT": {
+        "buyLmt": "13.4",
+        "sellLmt": "13.12"
+    },
+    "XLM-USDT": {
+        "buyLmt": "0.09552",
+        "sellLmt": "0.09176"
+    },
+    "XNO-USDT": {
+        "buyLmt": "0.8798",
+        "sellLmt": "0.8286"
+    },
+    "XR-USDT": {
+        "buyLmt": "0.2426",
+        "sellLmt": "0.2284"
+    },
+    "XTZ-USDT": {
+        "buyLmt": "0.6592",
+        "sellLmt": "0.6332"
+    },
+    "YFI-USDT": {
+        "buyLmt": "4966",
+        "sellLmt": "4770"
+    },
+    "YGG-USDT": {
+        "buyLmt": "0.4964",
+        "sellLmt": "0.4769"
+    },
+    "ZBCN-USDT": {
+        "buyLmt": "0.0010287",
+        "sellLmt": "0.0009689"
+    },
+    "ZENT-USDT": {
+        "buyLmt": "0.0176",
+        "sellLmt": "0.01724"
+    },
+    "ZERO-USDT": {
+        "buyLmt": "0.0002259",
+        "sellLmt": "0.0002213"
+    },
+    "ZETA-USDT": {
+        "buyLmt": "0.718",
+        "sellLmt": "0.6898"
+    },
+    "ZEUS-USDT": {
+        "buyLmt": "0.2603",
+        "sellLmt": "0.255"
+    },
+    "ZIL-USDT": {
+        "buyLmt": "0.0146",
+        "sellLmt": "0.01402"
+    },
+    "ZK-USDT": {
+        "buyLmt": "0.1372",
+        "sellLmt": "0.1317"
+    },
+    "ZKJ-USDT": {
+        "buyLmt": "",
+        "sellLmt": ""
+    },
+    "ZRO-USDT": {
+        "buyLmt": "3.523",
+        "sellLmt": "3.384"
+    },
+    "ZRX-USDT": {
+        "buyLmt": "0.3359",
+        "sellLmt": "0.3226"
+    }
+}
